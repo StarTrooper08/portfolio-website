@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "I am an Open Source Developer and DevOps Engineer passionate about building Scalable Systems and Automating Workflows.\n🚀 Skills: Git & Github, Linux, Bash Script, Python — (Flask, FastAPI), R Lang(Basics and Data Visualization), Database —(PostgreSQL/MongoDB), MindsDB, Docker, CI/CD — (Github Actions), Kubernetes, Terraform, GCP, Documentation - (Mkdocs/Quarto)\n🎯 Interests: IoT, DevOps, contributing to open-source projects and sometimes playing chess."
+  },
+  {
+    "objectID": "index.html#hashcraft",
+    "href": "index.html#hashcraft",
+    "title": "Portfolio",
+    "section": "HashCraft",
+    "text": "HashCraft\nA Flask-based tool for converting blogs into eBooks.\nTechnologies: Flask, Pandoc, Docker, Hugging Face Spaces."
+  },
+  {
+    "objectID": "index.html#r-dev-container",
+    "href": "index.html#r-dev-container",
+    "title": "Portfolio",
+    "section": "R Dev Container",
+    "text": "R Dev Container\nAn environment for R development using Docker and GitHub Codespaces.\nTechnologies: Docker, Bash, R, GitHub Actions."
+  },
+  {
+    "objectID": "index.html#mindsdb-tutorial",
+    "href": "index.html#mindsdb-tutorial",
+    "title": "Portfolio",
+    "section": "MindsDB Tutorial",
+    "text": "MindsDB Tutorial\n\nPredicting the Rating of Cars using Mindsdb\n\nTechnologies: Python, MindsDB, Machine Learning. 2. Let’s connect Mindsdb with Mariadb shell Locally and Predict the Mobile Price Range"
+  },
+  {
+    "objectID": "index.html#pico-tutorial",
+    "href": "index.html#pico-tutorial",
+    "title": "Portfolio",
+    "section": "Pico Tutorial",
+    "text": "Pico Tutorial\n\nGetting Started with Raspberry Pi Pico: Setting Up with VSCode on Ubuntu"
+  },
+  {
+    "objectID": "index.html#github-actions-and-docker",
+    "href": "index.html#github-actions-and-docker",
+    "title": "Portfolio",
+    "section": "Github Actions And Docker",
+    "text": "Github Actions And Docker\n\nEfficiency Unleashed: Dockerizing and Optimizing a FastAPI App with SlimToolkit and GitHub Actions"
+  },
+  {
+    "objectID": "index.html#hackathons-projects-pitching-blogs",
+    "href": "index.html#hackathons-projects-pitching-blogs",
+    "title": "Portfolio",
+    "section": "Hackathons Project’s Pitching Blogs",
+    "text": "Hackathons Project’s Pitching Blogs\n\nHashcraft\nExpense Stream"
+  }
+]

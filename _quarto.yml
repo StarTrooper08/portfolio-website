@@ -1,0 +1,20 @@
+project:
+  type: website
+  title: "Atharva Shirdhankar // StarTrooper"
+
+website:
+  navbar:
+    left:
+      - text: ""
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/StarTrooper08
+      - icon: linkedin
+        href: https://linkedin.com/in/atharvashirdhankar
+  page-footer: |
+    Powered by [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme: cosmo

@@ -1,0 +1,61 @@
+---
+title: "Portfolio"
+---
+
+# Hi, I'm Atharva Shirdhankar 👋
+
+I am an Open Source Developer and DevOps Engineer passionate about building Scalable Systems and Automating Workflows. 
+
+🚀 **Skills**: Git & Github, Linux, Bash Script, Python — (Flask, FastAPI), R Lang(Basics and Data Visualization), Database
+—(PostgreSQL/MongoDB), MindsDB, Docker, CI/CD — (Github Actions), Kubernetes, Terraform, GCP, Documentation -
+(Mkdocs/Quarto)  
+🎯 **Interests**: IoT, DevOps, contributing to open-source projects and sometimes playing chess.
+
+# Education 
+Software Engineer experienced in backend development, DevOps, and open-source contributions. Skilled in Python, Docker, and Linux, with a passion for scalable systems, CI/CD automation, and optimizing development workflows. 
+
+- **Experience**: Open Source Developer GSoC'23 R Project, GSoC'24 R Project
+- **Education**: Computer Science graduate with a focus on Backend Development and Systems.
+
+[View my Github profile](https://github.com/StarTrooper08)
+
+
+# Projects
+
+## [HashCraft](https://github.com/StarTrooper08/Hashcraft)
+A Flask-based tool for converting blogs into eBooks.  
+**Technologies**: Flask, Pandoc, Docker, Hugging Face Spaces.
+
+## [R Dev Container](https://github.com/r-devel/r-dev-env)
+An environment for R development using Docker and GitHub Codespaces.  
+**Technologies**: Docker, Bash, R, GitHub Actions.
+
+# Publications
+
+## MindsDB Tutorial
+
+1. [Predicting the Rating of Cars using Mindsdb](https://atharva08.hashnode.dev/predicting-the-rating-of-cars-using-mindsdb)
+
+**Technologies**: Python, MindsDB, Machine Learning.
+2. [Let's connect Mindsdb with Mariadb shell Locally and Predict the Mobile Price Range](https://atharva08.hashnode.dev/lets-connect-mindsdb-with-mariadb-shell-locally-and-predict-the-mobile-price-range)
+
+## Pico Tutorial
+
+1. [Getting Started with Raspberry Pi Pico: Setting Up with VSCode on Ubuntu](https://atharva08.hashnode.dev/getting-started-with-raspberry-pi-pico-setting-up-with-vscode-on-ubuntu)
+
+## Github Actions And Docker
+
+1. [Efficiency Unleashed: Dockerizing and Optimizing a FastAPI App with SlimToolkit and GitHub Actions](https://atharva08.hashnode.dev/efficiency-unleashed-dockerizing-and-optimizing-a-fastapi-app-with-slimtoolkit-and-github-actions)
+
+
+## Hackathons Project's Pitching Blogs
+1. [Hashcraft](https://atharva08.hashnode.dev/hashcraft-craft-ebook-and-pdf-doc-from-your-hashnode-blog)
+2. [Expense Stream](https://dev.to/star_trooper/expense-stream-streamlit-and-mongodb-atlas-app-3elp)
+
+
+# Get in Touch
+
+Feel free to reach out for collaborations or questions:
+
+- **GitHub**: [github.com/StarTooper08](https://github.com/yourusername)
+- **Linkedin**: [Atharva Shirdhankar](https://www.linkedin.com/in/atharvashirdhankar/)
